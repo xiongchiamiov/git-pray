@@ -1,0 +1,8 @@
+#!/bin/bash -e
+
+case "$DEITY" in
+   *)
+      echo "\$DEITY not set.  You're on your own, bud."
+      ;;
+esac
+
