@@ -1,6 +1,23 @@
 #!/bin/bash -e
 
 case "$DEITY" in
+   'Dagr')
+      cat <<'EOT'
+Hail, upstream!
+Hail, clones of upstream!
+And the fork and her clones now!
+Look on us here,
+with loving patch review,
+That waiting we merges win.
+
+Hail to the committers!
+Ye contributors, hail,
+And all the generous software ecosystem!
+Give to us wisdom,
+and goodly commits,
+And healing rebases, life-long.
+EOT
+      ;;
    'Jehovah')
       cat <<'EOT'
 Our Father in origin,
