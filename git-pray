@@ -17,6 +17,18 @@ For yours is the source code, and the power, and the glory, forever.
 Amen.
 EOT
       ;;
+   'Kwisatz Haderach')
+      cat <<'EOT'
+I must not rebase.
+Rebasing is the commit-killer.
+Rebasing is the little-death that brings total squashing.
+I will face my rebasing.
+I will permit it to pass over my commits and pick my commits.
+And when it has gone past I will turn the inner log to see its path.
+Where the rebasing has gone there will be nothing.
+Only the tip will remain.
+EOT
+      ;;
    *)
       echo "\$DEITY not set.  You're on your own, bud."
       ;;
