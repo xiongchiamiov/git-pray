@@ -1,7 +1,7 @@
 #!/bin/bash -e
 
 case "$DEITY" in
-   Jehovah)
+   'Jehovah')
       cat <<'EOT'
 Our Father in origin,
    hallowed be your ref.
@@ -15,6 +15,22 @@ Lead us not into Subversion,
    but deliver us from detached HEAD.
 For yours is the source code, and the power, and the glory, forever.
 Amen.
+EOT
+      ;;
+   'Jupiter')
+      cat <<'EOT'
+Jupiter Committer,
+   if on HEAD commits have been lost,
+   or if in the nation of versioning
+      the owed commit messages have been omitted,
+   let it be as if they had been made.
+
+Jupiter Committer,
+   if in your pull request there has been any flaw,
+      any defect, any contribution guidelines not followed,
+   if in your pull request there is a flaw,
+      either seen or unseen,
+   let it be as if there was not.
 EOT
       ;;
    'Kwisatz Haderach')
