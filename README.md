@@ -10,3 +10,20 @@ Inspired by a conversation in our development chat:
                       git sm init
                       git sm update
                       git pray
+
+# Example
+
+    [$]> DEITY='Jehovah' git pray
+    Our Father in origin,
+       hallowed be your ref.
+    May your commits come soon,
+       and may your pull requests be merged,
+       on master as it is in origin/master.
+    Give us today our daily SHAs,
+       and forgive us our push -fs
+       as we have forgiven those who push -f against us.
+    Lead us not into Subversion,
+       but deliver us from detached HEAD.
+    For yours is the source code, and the power, and the glory, forever.
+    Amen.
+
