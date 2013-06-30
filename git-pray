@@ -1,6 +1,34 @@
 #!/bin/bash -e
 
 case "$DEITY" in
+   'Athena')
+      cat <<'EOT'
+Athena, flint-eyed daughter
+   of excellent Zeus,
+clear-headed goddess,
+   bold-hearted patron of code.
+Bright Athena, commits guided
+   by forethought,
+kind one who draws near us,
+   who flees no merge conflict,
+your favor sought by many,
+   your presence so strong,
+so penetrating,
+   so unmistakable.
+Athena, shining engineer,
+   child of wisdom,
+I pray to you. Precision
+   and unmuddled thought
+I ask of you, crisp reason
+   and blessed clarity,
+surety and conviction,
+   quick wit and quick action.
+Give me eyes to see far,
+   over the architecture;
+give me heart to bear legacy code,
+   give me strength to hold fast.
+EOT
+      ;;
    'Dagr')
       cat <<'EOT'
 Hail, upstream!
