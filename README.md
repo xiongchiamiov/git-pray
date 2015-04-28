@@ -11,6 +11,13 @@ Inspired by a conversation in our development chat:
                       git sm update
                       git pray
 
+# Deities
+1. Athena
+2. Dagr
+3. Jehovah
+4. Jupiter
+5. Kwisatz Haderach
+
 # Example
 
     [$]> DEITY='Jehovah' git pray
